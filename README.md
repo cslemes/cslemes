@@ -1,11 +1,13 @@
 ### Hi there, I am Cristiano Lemes
 
 
-- 🌱 I’m currently learning <br/>
+- 📚 I’m currently learning <br/>
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=Terraform&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53?style=plastic&logo=Consul&logoColor=white)
 
 
-My toolbox includes
+- 🧰 My toolbox includes
 
 
 
