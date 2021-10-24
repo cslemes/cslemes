@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I am Cristiano Lemes
 
+
+My toolbox includes
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-35BF5C?style=for-the-badge&logo=Kubernetes&logoColor=white)
 <!--
 **cslemes/cslemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
