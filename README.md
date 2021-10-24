@@ -10,7 +10,7 @@
 
 #### 🧰 My toolbox includes
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white)\n
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white)<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white) 
 ![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white)
