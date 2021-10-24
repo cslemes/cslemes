@@ -1,7 +1,7 @@
 ### Hi there, I am Cristiano Lemes
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning <br/>
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=Terraform&logoColor=white)
 
 
