@@ -23,9 +23,9 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
   
   #### ✍️ Scripting
-  ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=plastic&logo=powershell&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
   
   #### Other
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)
