@@ -5,7 +5,7 @@
 
 ![Vault](https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-F24C53?style=plastic&logo=Consul&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
 
 #### 🧰 My toolbox includes
   
