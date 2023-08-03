@@ -9,20 +9,20 @@
 
 #### 🧰 My toolbox includes
 
-## Infra as code
+### 🕹️ Infra as code
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white)
 
-## Cloud Providers
+### ☁️ Cloud Providers
 ![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white)
 
-## Operating Systems
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
 
-## Scripting
+## ✍️ Scripting
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
