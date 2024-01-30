@@ -19,11 +19,11 @@
   
   #### ☁️ Cloud Providers
   ![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white)
-  ![Oracle-OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Oracle-OCI](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
   
   #### Operating Systems
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
   
   #### ✍️ Scripting
   ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=plastic&logo=powershell&logoColor=white)
@@ -32,7 +32,7 @@
   
   #### Other
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)
-
+  ![VMWare](https://img.shields.io/badge/vmware-blue?style=plastic&logo=vmware&logoColor=white)
 
 <!--
 **cslemes/cslemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
