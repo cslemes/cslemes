@@ -4,9 +4,8 @@
 #### 📚 I’m currently learning
 
 ![Vault](https://img.shields.io/badge/Vault-000000?style=plastic&logo=Vault&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-F24C53?style=plastic&logo=Consul&logoColor=white)
-![nomad](https://img.shields.io/badge/Nomad-00FF00?style=plastic&logo=Consul&logoColor=white)
-
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 
 #### 🧰 My toolbox includes
   
