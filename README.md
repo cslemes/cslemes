@@ -5,7 +5,7 @@
 
 ![Vault](https://img.shields.io/badge/Vault-000000?style=or-the-badge&logo=Vault&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### 🧰 My toolbox includes
   
@@ -19,27 +19,31 @@
   #### ☁️ Cloud Providers
   ![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
   ![Oracle-OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  '[Google-GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
   #### Operating Systems
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
   #### ✍️ Scripting
-  ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=plastic&logo=powershell&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+  ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+  
+  ### Programing Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
   #### Monitoring and logging
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+  
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
   #### Databases
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-  
-  #### Other
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)
-  ![VMWare](https://img.shields.io/badge/vmware-blue?style=plastic&logo=vmware&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    
+  #### Virtualization
+  ![VMWare](https://img.shields.io/badge/vmware-blue?style=for-the-badge&logo=vmware&logoColor=white)
 
 <!--
 **cslemes/cslemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
