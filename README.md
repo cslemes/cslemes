@@ -19,7 +19,7 @@
   #### ☁️ Cloud Providers
   ![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
   ![Oracle-OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  '[Google-GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Google-GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
   #### Operating Systems
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
